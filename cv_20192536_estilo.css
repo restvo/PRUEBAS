@@ -1,0 +1,29 @@
+h1{
+    background-color: bisque;
+    color:darkslategrey;
+    font-size: xx-large;
+    padding-left: 570px;
+}
+h2{
+    color:darkslategrey;
+    background-color: bisque;
+    padding-left: 250px;
+}
+#info{
+    padding-left: 640px;
+    background-color:khaki;
+}
+a{
+    padding-left: 700px;
+    background-color: khaki;
+    padding-right: 772px;
+}
+p{
+    background-color: khaki;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+ul{
+    background-color: khaki;
+    padding-left: 250px;
+}
